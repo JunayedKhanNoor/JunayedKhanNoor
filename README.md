@@ -24,10 +24,10 @@ Skills:  JS/ REACT / Express JS/MongoDB/ HTML / CSS/Tailwind CSS/ Bootstrap/ Fir
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedKhanNoor)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKhanNoor)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKhanNoor)  
 
 ![GitHub metrics](https://metrics.lecoq.io/JunayedKhanNoor)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunayedKhanNoor)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunayedKhanNoor)   -->
 
 ![Profile views](https://gpvc.arturio.dev/JunayedKhanNoor)  
