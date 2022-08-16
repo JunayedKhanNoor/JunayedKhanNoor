@@ -1,12 +1,10 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFi_kBCUsvzBw/profile-displaybackgroundimage-shrink_350_1400/0/1653129571078?e=1661385600&v=beta&t=ARJ1YA2sZldkqseRdEfQZc7hxFNivwK2Tn1VW5CpJO8)
-
 ### Hi there 👋, I'm Junayed
 #### Web Developer
 
 
 I am Junayed, a skilled and professional Front-End developer as well as a React developer. I have been working in these fields for a while and have gained much experience. I love to assist in Industry with hard work and sincerity. I enjoy working with including React .js, JavaScript, Express.js and MongoDB.
 
-Skills:  JS/ REACT / Express JS/MongoDB/ HTML / CSS/Tailwind CSS/ Bootstrap/ Firebase Authentication/ Heroku 
+Skills:  JS/ REACT / REDUX / Express JS/MongoDB/ HTML / CSS/Tailwind CSS/ Bootstrap/ Firebase Authentication/ Heroku 
 
 - 🔭 I’m currently working on Self Project for learning 
 - 🌱 I’m currently learning JavaScript 
