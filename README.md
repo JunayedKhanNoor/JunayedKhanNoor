@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Junayed
-#### Web Application Developer
-Skilled and professional Web Application developer. I have been working in these fields for a while and have gained much experience. I love to assist in Industry with hard work and sincerity. I enjoy working with including JavaScript, React .js, Node.js, Express.js and MongoDB.
+#### Right now I am working as an Assistant Software QA engineer in industry.
+I have been working in these fields for a while and have gained much experience. I love to assist in Industry with hard work and sincerity. I enjoy working with including JavaScript, React .js, Node.js, Express.js and MongoDB.
 
-Skills:  JS/ REACT / REDUX / Express JS/MongoDB/ HTML / CSS/Tailwind CSS/ Bootstrap/ Firebase Authentication/ Heroku 
-
+Dev Skills:  JS/ REACT / REDUX / Express JS/MongoDB/ HTML / CSS/Tailwind CSS/ Bootstrap/ Firebase Authentication/ Heroku 
+QA Skills: Manual Testing(Web and Mobile Application), Various types of testing (Functional Test, Usability Test, Smoke Test, Regrassion Test), API Test, Load Test, Test Automation.
 - 📫 How to reach me: junayednoor@gmail.com 
 
 - 🛰️ Portfolio [Please click here](https://junayednoor.netlify.app/).
